@@ -1,6 +1,6 @@
 # Giacomo Borghi — personal academic website
 
-A static website for https://giacomoborghi.github.io, inspired by the restrained academic layout of https://giacomosodini.github.io. All HTML and CSS is original.
+A static academic website for https://giacomoborghi.github.io.
 
 ## Pages
 
