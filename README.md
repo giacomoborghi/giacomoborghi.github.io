@@ -7,7 +7,7 @@ A static website for https://giacomoborghi.github.io, inspired by the restrained
 - `index.html`: biography, portrait, affiliation, and academic profiles
 - `research.html`: broad research overview and current interests
 - `publications.html`: preprints, articles, chapters, reports, and doctoral thesis
-- `talks.html`: selected scientific talks
+- `talks.html`: complete list of talks and conference contributions, with planned talks identified
 - `service.html`: organization and refereeing
 - `cv.html`: academic appointments and education
 
